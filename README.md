@@ -20,5 +20,23 @@ An elegant and interactive login page with smooth animations, built using HTML, 
 
 ## Getting Started  
 1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/Animated-Login-Page.git  
+     
+   git clone https://github.com/itsalokbarnwal/Animated-Login-Page.git
+  
+2. Open `index.html` in any web browser to view the login page.  
+
+## How to Use  
+- This project can be integrated into any web application requiring a login functionality.  
+- Customize the colors, animations, or layout as per your project requirements.  
+
+## Contributing  
+Feel free to fork this repository, make your changes, and submit a pull request. Contributions are always welcome!  
+
+## License  
+This project is licensed under the MIT License.  
+
+## Connect with Me  
+- **LinkedIn:** [https://www.linkedin.com/in/alokbarnwal-webdev]  
+- **GitHub:** [https://github.com/itsalokbarnwal]  
+
+
